@@ -1,0 +1,2 @@
+It means to make a small enough data sample that the data scientist can read and understand it in its entirety, process it, and see if anything about the output seems wrong.
+The sanity-check data sample should be chosen at random from the entire data sample, not just the top or bottom rows. It should be large enough to be representative of the entire data set, but small enough that you can conceptualize the relationship between the input data and output data in fine detail. The exact parameters of that will be context-dependent.
